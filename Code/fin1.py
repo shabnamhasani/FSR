@@ -92,8 +92,8 @@ def load_data(filename):
   
   return df
 
-df1 = load_data('SFCR.xlsx')
-df2= load_data('Abhishek.xlsx')
+df1 = load_data('../Data/SFCR.csv')
+df2= load_data('../Data/Abhishek.xlsx')
 df3= load_data('Daksh.xlsx')
 df=df1.append(df2)
 
