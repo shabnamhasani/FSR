@@ -32,7 +32,7 @@ An overview of the approaches are discussed below:
 ### Instructions to run the proposed algorithms
 
 * Create a python environment with the packages listed in: FSR/Code/RQ1/Requirement.txt
-* Open the environment and proceed to FSR main folder, FSR/Code/RQ1/BERTbase.py
+* Open the environment and proceed to FSR main folder FSR/Code/RQ1 and execute the code BERTbase.py
 
 
 
