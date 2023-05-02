@@ -6,7 +6,6 @@ Automated Classification of Requirements-related Provisions in Food-safety Regul
 In this paper, we propose to develop 1) a conceptual characterization of food-safety concepts that closely relate to systems and software requirements and 2) a BERT-based approach to automatically classify legal provisions according to requirements-related food-safety concepts. We empirically evaluate our classification approach with BERT variants, e.g., BERT large, RoBERTa, ALBERT and non-transformer models including: BiLSTM and Keyword Search.
 An overview of the approaches are discussed below:
 
-ok
 <img src="approach.pdf" width=300>
 
 * Pre-processing
