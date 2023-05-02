@@ -29,25 +29,15 @@ An overview of the approaches are discussed below:
 * Create a python environment with the packages listed in: FSR/Code/RQ1/Requirement.txt
 * Open the environment and proceed to FSR main folder, FSR/Code/RQ1/BERTbase.py
 
-code blocks for commands
 
-
-## Help
-
-command to run if program contains helper info
 ``
 
-
 ## Authors
-Shabnam Hasani
-s.hassani@uottawa.ca
+
 
 ## Version History
 
-* 0.1
-    * Initial Release
-
-## License
+Initial Release
 
 
 ## Acknowledgments
