@@ -7,6 +7,8 @@ In this paper, we propose to develop 1) a conceptual characterization of food-sa
 An overview of the approaches are discussed below:
 ![Alt text](https://drive.google.com/uc?id=1w-H2pt7RBCNpUqqB5eE3EkPnO59A8EwT)
 
+[approach.pdf](https://github.com/shabnamhasani/FSR/files/11373356/approach.pdf)
+[embed][http://example.com/file.pdf[](https://github.com/shabnamhasani/FSR/files/11373356/approach.pdf)/embed]
 * Pre-processing
 * LM-based Classification
 * Keyword-based Classification
@@ -17,7 +19,7 @@ An overview of the approaches are discussed below:
 * Code: contains scripts related to the implementation of all the approaches in this paper. It contains three subfolder namely RQ1, RQ2, and Supplementary Code.
     * RQ1: contains code related to the BERT-based Language Models implemented for answering RQ1 and the prerequisite pakages in the requirement.txt.
     * RQ2: contains code for BiLSTM and Keyword Search baseline models and the prerequisite pakages in the requirement.txt.
-    * Supplementary: contains subsidiary codes, including: Food Safety Sentence Statistics (retrieves the content of food safety-related URLs and calculates various statistics on the number of sentences found in them, such as the mean, standard deviation, and other relevant metrics.), scripts for Classification Evaluation and Significance Testing (takes classification reports as input and generates a dataframe with precision, recall, and f-score values for each label. It then performs statistical significance testing between two models using the generated dataframe) and Boxplot Visualization (uses the second dataframe generated in the previous notebook to create boxplots, showcasing the distribution of results.
+    * Supplementary: contains subsidiary codes, including: Food Safety Sentence Statistics (retrieves the content of food safety-related URLs and calculates various statistics on the number of sentences found in them, such as the mean, standard deviation, and other relevant metrics), scripts for Classification Evaluation and Significance Testing (takes classification reports as input and generates a dataframe with precision, recall, and f-score values for each label. It then performs statistical significance testing between two models using the generated dataframe) and Boxplot Visualization (uses the second dataframe generated in the previous notebook to create boxplots, showcasing the distribution of results.
 
 * Evaluation Results: contains two subfolder namely RQ1 and RQ2. 
     * RQ1: includes Precision, Recall and F-Score for the BERT variants classification results, along with the model hyperparameters and statistical significance tests of comparing BERT base approach against these BERT variants.
