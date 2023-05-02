@@ -16,8 +16,10 @@ An overview of the approaches are discussed below:
 ## Content description
 * Code: contains scripts related to the implementation of all the approaches in this paper. It contains two subfolder namely RQ1 and RQ2. As the name suggests, RQ1 contains code related to the BERT-based Language Models implemented for answering RQ1 and RQ2 contains code for BiLSTM and Keyword Search baseline models. 
 * Evaluation Results: contains two subfolder namely RQ1 and RQ2. 
+
     *RQ1 includes Precision, Recall and F-Score for the BERT variants classification results, along with the model hyperparameters and statistical significance tests of comparing BERT base approach against these BERT variants.
     *RQ2 includes BiLSTM hyperparameters and statistical significance tests of comparing our approach against baselines.
+    
 * Data: contains datasets 
 
 ### Instructions to run the proposed algorithms
