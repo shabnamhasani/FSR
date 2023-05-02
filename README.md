@@ -1,12 +1,9 @@
-# SFCR ##Automated Classification of Requirements-related Provisions in Food-safety Regulations
-
-
- How data versioning tools impact ML systems’ evolution from a bug analysis perspective
+# SFCR 
+Automated Classification of Requirements-related Provisions in Food-safety Regulations
 
 ## Description
 
-AI-based software systems like DVC have been reported to have introduced the use of data versioning tools.
-In this project we studied the effect of using DVC tool from a bug analysis point of view.
+In this paper, we propose to develop 1) a conceptual characterization of food-safety concepts that closely relate to systems and software requirements and 2) a BERT-based approach to automatically classify legal provisions according to requirements-related food-safety concepts.
 
 ## Methodology
 
