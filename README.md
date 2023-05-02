@@ -7,7 +7,7 @@ In this paper, we propose to develop 1) a conceptual characterization of food-sa
 An overview of the approaches are discussed below:
 
 <p align="center">
-  <img src="https://github.com/shabnamhasani/FSR/blob/main/approach.png" width="450" height="200" class="centerImage" />
+  <img src="https://github.com/shabnamhasani/FSR/blob/main/approach.pdf" width="450" height="200" class="centerImage" />
 </p>
 
 * Pre-processing
