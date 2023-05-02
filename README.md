@@ -10,10 +10,10 @@ An overview of the approaches are discussed below:
   <img src="https://github.com/shabnamhasani/FSR/blob/main/approach.png" width="450" height="200" class="centerImage" />
 </p>
 
-* Pre-processing
-* LM-based Classification
-* Keyword-based Classification
-* Label Prediction
+* Pre-processing: Sentence splitting and context preservation
+* LM-based Classification: Employing fine-tuned Language Models for each to predict whether or not a given input provision has some occurrence of concepts.
+* Keyword-based Classification: Identifying too sparse concepts with the keywords listed in https://github.com/shabnamhasani/FSR/tree/main/Data
+* Label Prediction: producing the final label recommendations for each provision. 
 
 
 ## Content description
