@@ -32,9 +32,6 @@ An overview of the approaches are discussed below:
 * Open the environment and proceed to FSR main folder, FSR/Code/RQ1/BERTbase.py
 
 
-``
-## Authors
-
 
 ## Version History
 
