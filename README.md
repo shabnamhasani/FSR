@@ -1,5 +1,5 @@
 # SFCR
-this is a description about my ASE paper
+Automated Classification of Requirements-related Provisions in Food-safety Regulations
 
 # Project Title
 SFCR_class_group_project:
