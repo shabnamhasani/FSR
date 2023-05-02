@@ -14,19 +14,20 @@ An overview of the approaches are discussed below:
 
 
 ## Content description
-* Code: contains scripts related to the implementation of all the approaches in this paper. It contains two subfolder namely RQ1 and RQ2. As the name suggests, RQ1 contains code related to the BERT-based Language Models implemented for answering RQ1 and RQ2 contains code for BiLSTM and Keyword Search baseline models. 
+* Code: contains scripts related to the implementation of all the approaches in this paper. It contains three subfolder namely RQ1, RQ2, and Supplementary Code. As the name suggests, RQ1 contains code related to the BERT-based Language Models implemented for answering RQ1 and RQ2 contains code for BiLSTM and Keyword Search baseline models. Supplementary Code contains subsidiary codes, including: content crawler, scripts for creating the box plots and data frame of the classification reports.
+
 * Evaluation Results: contains two subfolder namely RQ1 and RQ2. 
 
-    * RQ1 includes Precision, Recall and F-Score for the BERT variants classification results, along with the model hyperparameters and statistical significance tests of comparing BERT base approach against these BERT variants.
+    * RQ1: includes Precision, Recall and F-Score for the BERT variants classification results, along with the model hyperparameters and statistical significance tests of comparing BERT base approach against these BERT variants.
     
-    * RQ2 includes BiLSTM hyperparameters and statistical significance tests of comparing our approach against baselines.
+    * RQ2: includes BiLSTM hyperparameters and statistical significance tests of comparing our approach against baselines.
     
-* Data: contains datasets 
+* Data: contains datasets including qualitative data derived from qualitative coding and evaluation data annotated by third-part annotators.
 
 ### Instructions to run the proposed algorithms
 
-* How to run the program
-* Step-by-step bullets
+* Create a python environment with the packages listed in: FSR/Code/RQ1/Requirement.txt
+* Open the environment and proceed to FSR main folder, FSR/Code/RQ1/BERTbase.py
 
 code blocks for commands
 
