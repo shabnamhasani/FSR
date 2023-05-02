@@ -24,9 +24,9 @@ An overview of the approache are discussed below:
     * Supplementary: contains subsidiary codes that support the main analyses presented in this study. This includes scripts for Food Safety Sentence Statistics (retrieves the content of food safety-related URLs and calculates various statistics on the number of sentences found in them, such as the mean, standard deviation, and other relevant metrics), scripts for Classification Evaluation and Significance Testing (takes classification reports as input and generates a dataframe with precision, recall, and f-score values for each label. It then performs statistical significance testing between two models using the generated dataframe) and Boxplot Visualization (uses the second dataframe generated in the previous notebook to create boxplots showcasing the distribution of results).
 
 * Evaluation Results: contains two subfolder namely RQ1 and RQ2. 
-    * RQ1: contains Precision, Recall and F-Score for the BERT variants classification results, model hyperparameters, statistical significance tests of comparing BERT base approach against these BERT variants along with dfboxplots folder containing BERT variants dataframes used for visualization.
+    * RQ1: contains Precision, Recall and F-Score for the BERT variants classification results, along with the model hyperparameters used in the experiments, statistical significance tests of comparing BERT base approach against these BERT variants, and dfboxplots folder containing BERT variants dataframes used for visualization.
     
-    * RQ2: includes BiLSTM hyperparameters, statistical significance tests of comparing our approach against baselines, and dfboxplots folder containing baseline dataframes used for visualization.
+    * RQ2: includes the BiLSTM hyperparameters used in the experiment, statistical significance tests comparing our approach against baselines, and dfboxplots folder containing baseline dataframes used for visualization.
     
 * Data: contains datasets including qualitative data derived from qualitative coding and evaluation data annotated by third-part annotators.
 
