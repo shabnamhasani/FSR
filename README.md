@@ -7,17 +7,10 @@ In this paper, we propose to develop 1) a conceptual characterization of food-sa
 An overview of the approaches are discussed below:
 ![Alt text](https://drive.google.com/uc?id=1w-H2pt7RBCNpUqqB5eE3EkPnO59A8EwT)
 
-
-
-
-## Methodology
-
-* Mining github dvc projects 
-* Analysis of the files present on the changes from bug-labeled Github issues solutions and bugfix-related commits
-* Check the number of modified lines in each type of bug fixes for the commits analysis.
-* Compare the time to resolution and number of comments for issues related to dvc to the general scenario.
-* Manual analysis of the DVC-related bugs resolutions checking for the DVC files modifications
-* Result analysis and validation 
+* Pre-processing
+* LM-based Classification
+* Keyword-based Classification
+* Label Prediction
 
 
 ### Executing program
